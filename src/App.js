@@ -8,7 +8,7 @@ import Error from "./components/Error";
 import User from "./components/User";
 import Card from "./components/Card";
 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
  
