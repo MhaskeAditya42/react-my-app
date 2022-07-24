@@ -23,6 +23,9 @@ export default function Navbar () {
           <li className="nav-item">
             <Link className="nav-link" to="/User">User</Link>
           </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/Card">Card</Link>
+          </li>
         </ul>
         
       </div>
